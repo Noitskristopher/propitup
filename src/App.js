@@ -7,26 +7,26 @@ function App() {
       <PersonCard
         firstName={"John"}
         lastName={"Doe"}
-        Age={29}
         hairColor={"Black"}
+        initialAge={29}
       />
       <PersonCard
         firstName={"Jane"}
         lastName={"Doe"}
-        Age={32}
         hairColor={"Blonde"}
+        initialAge={32}
       />
       <PersonCard
         firstName={"Kris"}
         lastName={"Cabado"}
-        Age={24}
         hairColor={"Dark Brown"}
+        initialAge={24}
       />
       <PersonCard
         firstName={"Lebron"}
         lastName={"James"}
-        Age={38}
         hairColor={"Black"}
+        initialAge={38}
       />
     </div>
   );
